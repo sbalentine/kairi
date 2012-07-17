@@ -26,6 +26,7 @@ group :test do
 	gem 'rspec-rails', '2.10.0'
 	gem 'capybara', '1.1.2'
 	gem 'growl', '1.0.3'
+	gem 'factory_girl_rails', '1.4.0'
 end
 
 group :production do
